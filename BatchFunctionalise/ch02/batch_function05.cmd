@@ -1,6 +1,6 @@
 @echo off
 rem ########################################################
-rem # ファイル名: batch_function04.cmd
+rem # ファイル名: batch_function05.cmd
 rem # 概要： バッチ関数化サンプル
 rem #-------------------------------------------------------
 rem # Author: Isaac Factory (sir.isaac.factory@icloud.com)
